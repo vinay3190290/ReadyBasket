@@ -1,0 +1,329 @@
+POST received, but no image file. FILES: Array
+(
+    [image	] => Array
+        (
+            [name] => sprite.jpg
+            [full_path] => sprite.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php77BC.tmp
+            [error] => 0
+            [size] => 11257
+        )
+
+)
+, POST: Array
+(
+    [name] => sprite
+    [price	] => 45.00	
+    [old_price	] => 98.00
+    [stock	] => 100
+    [quantity] => 1 liter
+    [category	] => Beverages
+)
+
+POST received, but no image file. FILES: Array
+(
+    [image	] => Array
+        (
+            [name] => sprite.jpg
+            [full_path] => sprite.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php37CE.tmp
+            [error] => 0
+            [size] => 11257
+        )
+
+)
+, POST: Array
+(
+    [name] => sprite
+    [price	] => 45.00	
+    [old_price	] => 98.00
+    [stock	] => 100
+    [quantity] => 1 liter
+    [category	] => Beverages
+)
+
+Method: GET, FILES: Array
+(
+)
+, POST: Array
+(
+)
+
+POST received, but no image file. FILES: Array
+(
+    [image	] => Array
+        (
+            [name] => sprite.jpg
+            [full_path] => sprite.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php8B5D.tmp
+            [error] => 0
+            [size] => 11257
+        )
+
+)
+, POST: Array
+(
+    [name] => sprite
+    [price	] => 45.00	
+    [old_price	] => 98.00
+    [stock	] => 100
+    [quantity] => 1 liter
+    [category	] => Beverages
+)
+
+POST received, but no image file. FILES: Array
+(
+    [image	] => Array
+        (
+            [name] => sprite.jpg
+            [full_path] => sprite.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpFDCB.tmp
+            [error] => 0
+            [size] => 11257
+        )
+
+)
+, POST: Array
+(
+    [name] => sprite
+    [price	] => 45.00	
+    [old_price	] => 98.00
+    [stock	] => 100
+    [quantity] => 1 liter
+    [category	] => Beverages
+)
+
+POST received, but no image file. FILES: Array
+(
+    [image	] => Array
+        (
+            [name] => sprite.jpg
+            [full_path] => sprite.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpD46.tmp
+            [error] => 0
+            [size] => 11257
+        )
+
+)
+, POST: Array
+(
+    [name] => sprite
+    [price	] => 45.00	
+    [old_price	] => 98.00
+    [stock	] => 100
+    [quantity] => 1 liter
+    [category	] => Beverages
+)
+
+POST received, but no image file. FILES: Array
+(
+    [image	] => Array
+        (
+            [name] => sprite.jpg
+            [full_path] => sprite.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php14F8.tmp
+            [error] => 0
+            [size] => 11257
+        )
+
+)
+, POST: Array
+(
+    [name] => sprite
+    [price	] => 45.00	
+    [old_price	] => 98.00
+    [stock	] => 100
+    [quantity] => 1 liter
+    [category	] => Beverages
+)
+
+POST received, but no image file. FILES: Array
+(
+    [image	] => Array
+        (
+            [name] => sprite.jpg
+            [full_path] => sprite.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpD3D4.tmp
+            [error] => 0
+            [size] => 11257
+        )
+
+)
+, POST: Array
+(
+    [name] => sprite
+    [price	] => 45.00	
+    [old_price	] => 98.00
+    [stock	] => 100
+    [quantity] => 1 liter
+    [category	] => Beverages
+)
+
+POST received, but no image file. FILES: Array
+(
+    [image	] => Array
+        (
+            [name] => sprite.jpg
+            [full_path] => sprite.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php100F.tmp
+            [error] => 0
+            [size] => 11257
+        )
+
+)
+, POST: Array
+(
+    [name] => sprite
+    [price	] => 45.00	
+    [old_price	] => 98.00
+    [stock	] => 100
+    [quantity] => 1 liter
+    [category	] => Beverages
+)
+
+POST received, but no image file. FILES: Array
+(
+    [image	] => Array
+        (
+            [name] => sprite.jpg
+            [full_path] => sprite.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php1550.tmp
+            [error] => 0
+            [size] => 11257
+        )
+
+)
+, POST: Array
+(
+    [name] => sprite
+    [price	] => 45.00	
+    [old_price	] => 98.00
+    [stock	] => 100
+    [quantity] => 1 liter
+    [category	] => Beverages
+)
+
+POST received, but no image file. FILES: Array
+(
+    [image	] => Array
+        (
+            [name] => sprite.jpg
+            [full_path] => sprite.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php60CE.tmp
+            [error] => 0
+            [size] => 11257
+        )
+
+)
+, POST: Array
+(
+    [name] => sprite
+    [price	] => 45.00	
+    [old_price	] => 98.00
+    [stock	] => 100
+    [quantity] => 1 liter
+    [category	] => Beverages
+)
+
+POST received, but no image file. FILES: Array
+(
+    [image	] => Array
+        (
+            [name] => sprite.jpg
+            [full_path] => sprite.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php6728.tmp
+            [error] => 0
+            [size] => 11257
+        )
+
+)
+, POST: Array
+(
+    [name] => sprite
+    [price	] => 45.00	
+    [old_price	] => 98.00
+    [stock	] => 100
+    [quantity] => 1 liter
+    [category	] => Beverages
+)
+
+POST received, but no image file. FILES: Array
+(
+    [image	] => Array
+        (
+            [name] => sprite.jpg
+            [full_path] => sprite.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpF429.tmp
+            [error] => 0
+            [size] => 11257
+        )
+
+)
+, POST: Array
+(
+    [name] => sprite
+    [price	] => 45.00	
+    [old_price	] => 98.00
+    [stock	] => 100
+    [quantity] => 1 liter
+    [category	] => Beverages
+)
+
+POST received, but no image file. FILES: Array
+(
+    [image	] => Array
+        (
+            [name] => sprite.jpg
+            [full_path] => sprite.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpFB7D.tmp
+            [error] => 0
+            [size] => 11257
+        )
+
+)
+, POST: Array
+(
+    [name] => sprite
+    [price	] => 45.00	
+    [old_price	] => 98.00
+    [stock	] => 100
+    [quantity] => 1 liter
+    [category	] => Beverages
+)
+
+POST received, but no image file. FILES: Array
+(
+    [image	] => Array
+        (
+            [name] => sprite.jpg
+            [full_path] => sprite.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpEF0C.tmp
+            [error] => 0
+            [size] => 11257
+        )
+
+)
+, POST: Array
+(
+    [name] => sprite
+    [price	] => 45.00	
+    [old_price	] => 98.00
+    [stock	] => 100
+    [quantity] => 1 liter
+    [category	] => Beverages
+)
+
